@@ -1,0 +1,11 @@
+option {
+    background-color: burlywood;
+}
+select {
+    background-color: rgb(255, 208, 0);
+    width: 150px;
+    height: 30px;
+    margin: 20px;
+    border:solid rgb(0, 174, 255);
+
+}

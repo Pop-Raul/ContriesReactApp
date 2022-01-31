@@ -1,0 +1,11 @@
+.cardCountry{
+    background-color: rgb(210, 231, 231);
+    width: 300px;
+    height: 450px;
+    border:solid paleturquoise;
+    padding: 5px;
+    text-align:center;
+    display:  inline-grid;
+
+}
+
