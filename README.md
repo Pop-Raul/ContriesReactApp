@@ -2,6 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Installation requirements
+
+To install, you can use npm or yarn:
+
+$ npm install --save react-modal
+$ yarn add react-modal
+
 ## Available Scripts
 
 In the project directory, you can run:
