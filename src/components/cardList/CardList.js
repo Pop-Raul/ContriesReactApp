@@ -9,7 +9,6 @@ const CardList = ({ countries }) => {
         let currencies = ''
         if (countries[i].currencies)
             currencies = JSON.stringify(countries[i].currencies);
-        console.log(currencies);
 
         return <CardCountry
             key={i}
